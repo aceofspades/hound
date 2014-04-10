@@ -1,10 +1,14 @@
-# Hound
+Hound
+=======
+
+[![Code Climate](https://codeclimate.com/github/thoughtbot/hound.png)](https://codeclimate.com/github/thoughtbot/hound)
 
 Take care of pesky code reviews with a trusty [Hound](http://houndci.com). Hound
 reviews GitHub pull requests for style guide violations.
 [View the style guide &rarr;](https://github.com/thoughtbot/guides)
 
-# Development
+Development
+-----------
 
 To run your development environment:
 
